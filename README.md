@@ -20,6 +20,7 @@ Curso básico de exploración, análisis y visualización de conjuntos de datos 
     - c) Instalación de librerias
     - d) Sobre la documentación
     - e) Google Colab
+    - f) Github
 
 1. [Introducción a python](./CP1-Introduccion.ipynb)
     - a) Python y Jupyter Notebooks
