@@ -14,7 +14,7 @@ Curso básico de exploración, análisis y visualización de conjuntos de datos 
 
 ## Índice
 
-0. [Instalación e inicio con Anaconda](./CP0-Instalacion.md)
+0. [Instalación e inicio con Anaconda](./CP1-Instalacion.md)
     - a) Instalación de anaconda
     - b) Entornos (environments)
     - c) Instalación de librerias
@@ -22,7 +22,7 @@ Curso básico de exploración, análisis y visualización de conjuntos de datos 
     - e) Google Colab
     - f) Github
 
-1. [Introducción a python](./CP1-Introduccion.ipynb)
+1. [Introducción a python](./CP2-Introduccion.ipynb)
     - a) Python y Jupyter Notebooks
     - b) Valores, variables y tipos
     - c) Operaciones y funciones
