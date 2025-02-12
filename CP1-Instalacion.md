@@ -1,7 +1,7 @@
 # Análisis y visualización de datos con Python
-# 0. Instalación e inicio con Anaconda
+# 1. Instalación e inicio con Anaconda
 
-## 0.a Instalación de Anaconda
+## 1.a Instalación de Anaconda
 
 Anaconda es una distribución de software libre y de código abierto diseñada para gestionar paquetes y dependencias en Python. Contiene más de 1,500 paquetes relacionados con ciencia de datos, ingeniería y análisis, siendo ampliamente utilizado en la comunidad de ciencia de datos para administrar y compartir entornos de desarrollo y proyectos. Además, proporciona herramientas para la gestión eficiente de entornos virtuales, permitiendo a los usuarios trabajar con diferentes versiones de paquetes y dependencias sin afectar otros proyectos.
 
@@ -18,7 +18,7 @@ Anaconda es una distribución de software libre y de código abierto diseñada p
 
 Nota: En caso de problemas durante la instalación, consultar la documentación oficial de Anaconda para obtener asistencia adicional.
 
-## 0.b Entornos (environments)
+## 1.b Entornos (environments)
 
 Un entorno de Anaconda proporciona un espacio separado en el sistema que permite gestionar diferentes versiones de paquetes de Python de forma independiente. Esto evita conflictos entre proyectos, garantizando resultados consistentes y reproducibles.
 
@@ -41,7 +41,7 @@ Python esta en constante desarrollo, por lo que es recomendable usar una versió
 3. Seleccionar "Create" y proporcionar nombre y versión de Python para el nuevo entorno.
 4. Confirmar la creación y verificar la selección en "Environments".
 
-## 0.c Instalación de Librerías
+## 1.c Instalación de Librerías
 
 Las librerías de Python son conjuntos de módulos preescritos que facilitan tareas específicas. La instalación de librerías se puede realizar tanto desde la terminal como desde el navegador de Anaconda.
 
@@ -65,15 +65,15 @@ Una alternativa para la instalacción de librerias es utilizar `pip`.
 
 En ambos casos, es posible que sea necesario actualizar Anaconda o el entorno antes de instalar nuevas librerías.
 
-## 0.d Sobre la Documentación
+## 1.d Sobre la Documentación
 
 Al trabajar con funciones específicas en Python, es común encontrarse con opciones y parámetros que pueden variar. En caso de dudas, se recomienda buscar información en recursos como la [documentación oficial de pandas](https://pandas.pydata.org/pandas-docs/stable/), [StackOverflow](https://stackoverflow.com/), o utilizar [ChatGPT](https://chat.openai.com/chat). Recuerde googlear antes de preguntar y verificar la validez de las respuestas, especialmente en el caso de líneas de código, evitando traducirlas automáticamente.
 
-## 0.e Google Colab
+## 1.e Google Colab
 
 Google Colab (https://colab.research.google.com/) es una plataforma en línea que permite crear, ejecutar, almacenar y compartir programas en Python. Es un servicio gratuito de Jupyter Notebook. Para utilizar Google Colab, solo se necesita un navegador y una cuenta de Google. Sin embargo, los recursos de computo son limitados, sobretodo en la versión gratuita. Además de que no es recomendable usarlo con conjuntos de datos sensibles. 
 
-## 0.f Github
+## 1.f Github
 
 GitHub (https://github.com/) es una plataforma en línea que permite a los desarrolladores crear, compartir y colaborar en proyectos de software. 
 GitHub se basa en Git, un sistema de control de versiones que registra los cambios en los archivos. 
