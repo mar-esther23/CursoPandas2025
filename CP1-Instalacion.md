@@ -22,7 +22,7 @@ Nota: En caso de problemas durante la instalación, consultar la documentación 
 
 Un entorno de Anaconda proporciona un espacio separado en el sistema que permite gestionar diferentes versiones de paquetes de Python de forma independiente. Esto evita conflictos entre proyectos, garantizando resultados consistentes y reproducibles.
 
-Python esta en constante desarrollo, por lo que es recomendable usar una versión estable. En enero de 2025 esta es Python 3.12.
+Python está en constante desarrollo, por lo que es recomendable usar una versión estable. En enero de 2025 esta es Python 3.12.
 
 ### Creación de un entorno de Anaconda:
 
@@ -43,9 +43,9 @@ Python esta en constante desarrollo, por lo que es recomendable usar una versió
 
 ## 1.c Instalación de Librerías
 
-Las librerías de Python son conjuntos de módulos preescritos que facilitan tareas específicas. La instalación de librerías se puede realizar tanto desde la terminal como desde el navegador de Anaconda.
+Las librerías de Python son conjuntos de módulos pre-escritos que facilitan tareas específicas. La instalación de librerías se puede realizar tanto desde la terminal como desde el navegador de Anaconda.
 
-Para este curso se recomiendan inicialmente las librerias: `pandas openpyxl ydata_profiling unidecode numpy matplotlib seaborn`.
+Para este curso se recomiendan inicialmente las librerías: `pandas openpyxl ydata_profiling unidecode numpy matplotlib seaborn`.
 
 ### Instalación desde la terminal:
 
@@ -84,6 +84,8 @@ GitHub se basa en Git, un sistema de control de versiones que registra los cambi
 * Permite crear repositorios de Git 
 
 GitHub también cuenta con una herramienta de inteligencia artificial llamada GitHub Copilot, que sugiere y autocompleta el código escrito.
+
+**¡Gracias!**
 
 
 ## Script de ejemplo
