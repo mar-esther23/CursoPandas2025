@@ -1,6 +1,16 @@
 # Análisis y visualización de datos con Python
 # 1. Instalación e inicio con Anaconda
 
+    - a) Instalación de Anaconda
+    - b) Entornos (environments)
+    - c) Instalación de Librerías
+    - d) Sobre la Documentación
+    - e) Google Colab
+    - f) Github
+    - g) Resumen
+    
+---
+
 ## 1.a Instalación de Anaconda
 
 Anaconda es una distribución de software libre y de código abierto diseñada para gestionar paquetes y dependencias en Python. Contiene más de 1,500 paquetes relacionados con ciencia de datos, ingeniería y análisis, siendo ampliamente utilizado en la comunidad de ciencia de datos para administrar y compartir entornos de desarrollo y proyectos. Además, proporciona herramientas para la gestión eficiente de entornos virtuales, permitiendo a los usuarios trabajar con diferentes versiones de paquetes y dependencias sin afectar otros proyectos.
@@ -84,6 +94,16 @@ GitHub se basa en Git, un sistema de control de versiones que registra los cambi
 * Permite crear repositorios de Git 
 
 GitHub también cuenta con una herramienta de inteligencia artificial llamada GitHub Copilot, que sugiere y autocompleta el código escrito.
+
+
+## 1.g Resumen
+
+En esta lección hemos aprendido varios conceptos:
+* Anaconda
+* Entornos
+* Librerías
+* Documentación
+* Google Colab y Github
 
 **¡Gracias!**
 
