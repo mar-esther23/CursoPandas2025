@@ -1,0 +1,245 @@
+Diagnostico,Freq,Extendido,Clasificación
+_A,,abdomen,Cuerpo
+_AMi,,abdomen miembros,Cuerpo
+_AP,4,abdomen pelvis,Cuerpo
+_C,1,craneo,Cuerpo
+_CA,1,craneo abdomen,Cuerpo
+_CaCu,,cara cuello,Cuerpo
+_CAP,,craneo abdomen pelvis,Cuerpo
+_CCer,,craneo cervico,Cuerpo
+_CCerM,,craneo cervico medular,Cuerpo
+_CCerT,,craneo cervico torax,Cuerpo
+_CCu,,craneo cuello,Cuerpo
+_CE,,craneo encefalico,Cuerpo
+_CEA,,craneo encefalico abdomen,Cuerpo
+_CEMi,,craneo encefalico miembro,Cuerpo
+_Cer,5,cervico,Cuerpo
+_CerM,2,cervico medular,Cuerpo
+_CerT,,cervico torax,Cuerpo
+_CET,,craneo encefalico torax,Cuerpo
+_CETA,,craneo encefalico torax abdomen,Cuerpo
+_CF,,craneo facial,Cuerpo
+_CMi,,craneo miembro,Cuerpo
+_CP,1,craneo pelvis,Cuerpo
+_CRaq,,craneo raqui,Cuerpo
+_CRaqM,,craneo raqui medular,Cuerpo
+_CT,,craneo torax,Cuerpo
+_CTA,,craneo torax abdomen,Cuerpo
+_CTAP,,craneo torax abdomen pelvis,Cuerpo
+_CTP,,craneo torax pelvis,Cuerpo
+_CTV,,craneo torax vientre,Cuerpo
+_CuA,,cuello abdomen,Cuerpo
+_CuT,,cuello torax,Cuerpo
+_Med,1,medular,Cuerpo
+_MiI,,miembro inferior,Cuerpo
+_Mio,,miocardio,Cuerpo
+_MiS,,miembro superior,Cuerpo
+_P,3,pelvis,Cuerpo
+_PA,3,pelvis abdomen,Cuerpo
+_PMi,,pelvis miembro,Cuerpo
+_RaqM,,raqui medular,Cuerpo
+_T,,torax,Cuerpo
+_TA,1,torax abdomen,Cuerpo
+_TAP,,torax abdomen pelvis,Cuerpo
+_TMi,,torax miembro,Cuerpo
+_TP,,torax pelvis,Cuerpo
+_TRaq,,torax raqui,Cuerpo
+_TV,,torax vientre,Cuerpo
+_V,2,vientre,Cuerpo
+AAxHE,11,anemia por hemorragia,
+Aborto,51,aborto,Morbilidad y mortalidad perinatales
+Abs,21,absceso,Infecciones
+AE,143,asfixia por estrangulacion,Obstrucción de vías aéreas
+Alcohol,17,alcohol,
+AN,251,anemia,
+ANEN,574,asfixia neo natorum,Morbilidad y mortalidad perinatales
+Anencefalia,8,anencefalia,Morbilidad y mortalidad perinatales
+Aneurisma,8,aneurisma,
+Anoxia,24,anoxia,Obstrucción de vías aéreas
+AOVA,936,asfixia por obstruccion de vias aereas,Obstrucción de vías aéreas
+Apendicitis,4,apendicitis,Enfermedades del aparato digestivo
+AQ,87,amputacion quirurgica,Trauma
+AQXT,686,amputacion quirurgica por traumatismo,Trauma
+AQXTMi,10,amputacion quirurgica por traumatismo miembro,
+AQxTrat,2,amputacion quirurgica por tratamiento,
+ASB,561,asfixia por sumersion,Obstrucción de vías aéreas
+ASF,117,asfixia,Obstrucción de vías aéreas
+AT,30,amputacion traumatica,Trauma
+Avionetazo,3,avionetazo,Trauma
+AXA,694,asfixia por ahorcamiento,Obstrucción de vías aéreas
+BBNT,99,bronconeumonia no traumatica,Neumonías
+BN,5329,bronconeumonia,Neumonías
+BNxT,8,bronconeumonia traumatica,Neumonías
+Broncoaspiracion,10,broncoaspiracion,
+CA,37,cancer,
+Cereb,23,cerebro,Cuerpo
+CH,1535,cirrosis hepatica,Cirrosis
+Cianuro,3,cianuro,
+Cisticercosis,12,cisticercosis,Infecciones
+CL,33,conjunto lesiones,Trauma
+CO2,12,CO2,
+Cu,,cuello,Cuerpo
+CVG,1509,congestion visceral generalizada,Falla de órganos
+Desnut,37,desnutricion,Patologías alimenticias
+Diabetes,11,diabetes,
+Dispensa,929,dispensa,SD
+EC,89,edema cerebral,Enfermedades cerebro-vasculares
+Ed,,edema,
+Electroc,214,electrocucion,Electrocucion
+Embarazo,4,embarazo,
+Encef,9,encefalo,Cuerpo
+Encefalomalacia,3,encefalomalacia,
+Endo,4,endometrio,Cuerpo
+ENT,184,enteritis,Enfermedades del aparato digestivo
+ENTCO,9,enterocolitis,
+EP,154,edema pulmonar,Enfermedades del sistema respiratorio
+EXPSM,560,expulsion prematura del seno materno,Morbilidad y mortalidad perinatales
+FCPN,28,falta cuidado post natales,Morbilidad y mortalidad perinatales
+Fdesarrollo,3,falta desarrollo,Morbilidad y mortalidad perinatales
+Femoral,3,femoral,Cuerpo
+Fetal,5,fetal,
+Gang,118,gangrena,Gangrena
+Gastr,15,gastro,Cuerpo
+Gastritis,7,gastritis,Enfermedades del aparato digestivo
+Gastroent,29,gastroenteritis,Enfermedades del aparato digestivo
+HC,564,hemorragia cerebral o herida cortante,
+HCNT,3,hemorragia cerebral no traumatica,
+Hemo,33,hemorragia,
+Hepat,14,higado,Cuerpo
+Hepatitis,8,hepatitis,
+Hernia,6,hernia,
+Hidrocefalia,7,hidrocefalia,Enfermedades cerebro-vasculares
+HIPC,358,herida punzo cortante,Herida punzo cortante
+HIPCA,93,herida punzo cortante abdomen,Herida punzo cortante
+HIPCC,25,herida punzo cortante craneo,Herida punzo cortante
+HIPCCCu,,herida punzo cortante craneo cuello,Herida punzo cortante
+HIPCCer,,herida punzo cortante craneo cervico,Herida punzo cortante
+HIPCCT,2,herida punzo cortante craneo torax,Herida punzo cortante
+HIPCCu,17,herida punzo cortante cuello,Herida punzo cortante
+HIPCCuT,1,herida punzo cortante cuello torax,Herida punzo cortante
+HIPCMi,4,herida punzo cortante miembros,Herida punzo cortante
+HIPCPA,,herida punzo cortante abdomen pelvis,Herida punzo cortante
+HIPCT,301,herida punzo cortante torax,Herida punzo cortante
+HIPCTA,96,herida punzo cortante torax abdomen,Herida punzo cortante
+HIPCTV,1,herida punzo cortante torax vientre,Herida punzo cortante
+HIPCV,10,herida punzo cortante vientre,Herida punzo cortante
+HPAF,1045,herida arma fuego,Herida por arma de fuego
+HPAFA,332,herida arma fuego abdomen,Herida por arma de fuego
+HPAFC,960,herida arma fuego craneo,Herida por arma de fuego
+HPAFCaCu,,herida arma fuego cara cuello,Herida por arma de fuego
+HPAFCCu,,herida arma fuego craneo cuello,Herida por arma de fuego
+HPAFCRaquis,,herida arma fuego craneo raquis,Herida por arma de fuego
+HPAFCT,17,herida arma fuego craneo torax,Herida por arma de fuego
+HPAFCTA,10,herida arma fuego abdomen craneo torax,Herida por arma de fuego
+HPAFCTV,1,herida arma fuego abdomen craneo vientre,Herida por arma de fuego
+HPAFCu,30,herida arma fuego cuello,Herida por arma de fuego
+HPAFCuT,1,herida arma fuego cuello torax,Herida por arma de fuego
+HPAFMi,2,herida arma fuego miembros,Herida por arma de fuego
+HPAFPT,,herida arma fuego pelvis torax,Herida por arma de fuego
+HPAFRaquis,12,herida arma fuego raquis,Herida por arma de fuego
+HPAFT,745,herida arma fuego torax,Herida por arma de fuego
+HPAFTA,248,herida arma fuego torax abdomen,Herida por arma de fuego
+HPAFTRaquis,,herida arma fuego torax raquis,Herida por arma de fuego
+HPAFTV,15,herida arma fuego torax vientre,Herida por arma de fuego
+HPAFV,13,herida arma fuego vientre,Herida por arma de fuego
+Indet,94,indeterminado,SD
+Inf,20,infarto o infeccion,
+InfCer,8,infarto cerebral,
+Infec,13,infeccion,
+InfMio,48,infarto miocardio,
+InfPul,48,infarto pulmon,
+Insuf,13,insuficiencia,
+Intes,,intestino,Cuerpo
+Intox,100,intoxicacion,Intoxicación
+IntoxMed,15,intoxicacion por medicamentos,Intoxicación
+Leg,4,legrado,
+LOC,1124,enfermedad organica del corazon,Enfermedades del corazón
+Mening,28,meningo,Cuerpo
+Meningitis,31,meningitis,Enfermedades del sistema nervioso
+MI,25,miembro,Cuerpo
+N,352,neumonia,Neumonías
+Necro,19,necrosis,Necrosis
+NoCopia,44,no copias,SD
+noT,18,no traumatica,
+Oclusion,6,oclusion,
+Osteo,4,osteo,Cuerpo
+Osteomielitis,7,osteomielitis,
+Pancrea,87,pancreatitis,Enfermedades del aparato digestivo
+Parto,2,parto,
+PartoDis,10,parto distosico,
+PER,174,peritonitis o perforacion,Enfermedades del aparato digestivo
+Perf,14,perforacion,
+Placenta,16,placenta,Cuerpo
+PlaPrevia,1,placenta previa,Morbilidad y mortalidad perinatales
+PN,779,pleuro pneumonia,Neumonías
+PNNT,6,pleuro pneumonia no traumatica,Neumonías
+PosTa,,posttrauma,
+PostParto,22,postparto,
+Pul,23,pulmon,Cuerpo
+Quem,1437,quemaduras,Quemaduras
+Raqui,4,raqui,Cuerpo
+Raticida,10,raticida,
+Rectal,4,rectal,Cuerpo
+Renal,6,renal,Cuerpo
+Ret,15,retencion,
+Rup,14,ruptura,
+S-D,55901,sin datos,SD
+Septi,320,septicemia,Infecciones
+SH,32,shock,
+SHHV,7,shock hipovolemico,
+TA,408,traumatismo abdomen,Trauma
+TAC,314,traumatismo abdomen craneo,Trauma
+TACP,36,traumatismo abdomen craneo pelvis,Trauma
+TACu,,traumatismo abdomen cuello,Trauma
+TAM,2,traumatismo abdomen miembro,Trauma
+TAP,172,traumatismo abdomen pelvis,Trauma
+TB,376,tuberculosis,Infecciones
+TCCer,257,traumatismo craneo cervico,Trauma
+TCCerM,249,traumatismo craneo cervico medular,Trauma
+TCCerMT,,traumatismo craneo cervico medular torax,Trauma
+TCCerT,39,traumatismo craneo cervico torax,Trauma
+TCE,6945,traumatismo craneo encefalico,Trauma
+TCEA,35,traumatismo craneo encefalico abdomen,Trauma
+TCEMi,11,traumatismo craneo encefalico miembro,Trauma
+TCer,290,traumatismo cervico,Trauma
+TCerM,,traumatismo cervico medular,Trauma
+TCerMT,,traumatismo cervico medular torax,Trauma
+TCerT,,traumatismo cervico torax,Trauma
+TCET,78,traumatismo craneo encefalico torax,Trauma
+TCETA,6,traumatismo craneo encefalico torax abdomen,Trauma
+TCF,,traumatismo craneo facial,Trauma
+TCMi,1,traumatismo craneo miembro,Trauma
+TCMT,11,traumatismo craneo medular torax,Trauma
+TCP,128,traumatismo craneo pelvis,Trauma
+TCR,11,traumatismo craneo raqui,Trauma
+TCRM,11,traumatismo craneo raqui medular,Trauma
+TCT,1273,traumatismo craneo torax,Trauma
+TCTA,169,traumatismo craneo torax abdomen,Trauma
+TCTAP,8,traumatismo craneo torax abdomen pelvis,Trauma
+TCTP,18,traumatismo craneo torax pelvis,Trauma
+TCu,9,traumatismo cuello,Trauma
+Tetanos,4,tetanos,Trauma
+TM,8020,traumatismo multiple,Trauma
+TMed,5,traumatismo medular,Trauma
+TMi,461,traumatismo miembro,Trauma
+TMiI,40,traumatismo miembro inferior,Trauma
+TMiS,49,traumatismo miembro superior,Trauma
+TP,190,traumatismo pelvis,Trauma
+TPMi,21,traumatismo pelvis miembro,Trauma
+TRaq,4,traumatismo raqui,Trauma
+Trau,161,traumatismo,Trauma
+TRM,11,traumatismo raqui medular torax,Trauma
+Trombo,15,trombosis,Enfermedades del sistema nervioso
+TT,394,traumatismo torax,Trauma
+TTA,515,traumatismo torax abdomen,Trauma
+TTAP,48,traumatismo torax abdomen pelvis,Trauma
+TTMi,1,traumatismo torax miembro,Trauma
+TTP,66,traumatismo torax pelvis,Trauma
+Tum,13,tumor,
+TVag,1,traumatismo vaginal,Trauma
+Ulcera,14,ulcera,
+Utero,18,utero,Cuerpo
+Vag,4,vagina,Cuerpo
+Vascu,12,vascular,Cuerpo
+VE,89,varices esofagicas,Enfermedades del aparato digestivo
+Vesic,1,vesicula,Cuerpo
