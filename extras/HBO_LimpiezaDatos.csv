@@ -1,0 +1,36 @@
+Variable,Tipo,Limpieza,Validación
+ID,Alfanumérico,,Patron
+Numero_progresivo_transcrito,Texto,quitar,
+Nombre_completo_transcrito,Texto,str y resumir confidencial,original
+Primer_apellido,Texto,"quitar acentos, espacios extra, pasar minúsculas",revisar faltantes
+Segundo_apellido,Texto,"quitar acentos, espacios extra, pasar minúsculas",revisar faltantes
+Nombres_propios,Texto,"quitar acentos, espacios extra, pasar minúsculas",revisar faltantes
+Fecha_transcrito,Texto,str,original
+Fecha_estandar,Fecha,"regenerar, to_datetime",rango
+Expediente_SEMEFO_transcrito,Texto,quitar,
+Procedencia_transcrito,Texto,"quitar acentos, espacios extra, pasar minúsculas",original
+Procedencia_estandar,Catálogo,regenerar u estandarizar cat_proc_sustitucion,verificar en catálogo
+Numero_acta_transcrito,Texto,quitar,
+Procedencia_acta,Alfanumérico,quitar,
+Diagnostico_transcrito,Texto,str,original
+Diagnostico_estandar,Catálogo,regenerar y estandarizar cat_diag_sustitucion,verificar en catálogo
+Sexo,Catálogo,,verificar en catalogo
+Edad_transcrito,Texto,str,original
+Edad_estandar,Numérico,"regenerar, to_numeric, tratamiendo excepciones",rango
+Tipo_restos,Catálogo,"quitar baja frecuencia, dividir cadaveres",verificar en catalogo
+Bitacora_ingresos,Catálogo,quitar,
+Pagina_PDF,Numérico,quitar,
+Foja_transcrito,Texto,quitar,
+Observaciones,Texto,quitar,
+Conocido_desconocido,Catálogo,verificar S-D,verificar en catálogo
+,,,
+Variable,Tipo,Ingenieria,Validación
+Fecha_año,Numérico,,rango
+Fecha_mes,Numérico,,rango
+Fecha_dia,Numérico,,rango
+Fecha_semana,Numérico,,rango
+Fecha_diasemana,Catálogo,,verificar en catálogo
+Procedencia_dirección,Catálogo,estandarizar cat_proc_sustitucion,verificar en catálogo
+Procedencia_alcadía,Catálogo,estandarizar cat_proc_sustitucion,verificar en catálogo
+Diagnostico_extendido,Catálogo,estandarizar cat_diag_sustitucion,verificar en catalogo
+Edad_grupo,Catálogo,estandarizar con INEGI,verificar en catálogo

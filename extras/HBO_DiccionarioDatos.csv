@@ -1,0 +1,27 @@
+Variable,Tipo,Descripción operativa
+ID,Alfanumérico,Identificador único para cada resto asignado por la CNB.
+Numero_progresivo_transcrito,Numérico,Número progresivo con el cual se registraron originalmente los restos en la Bitácora Onomástica de Ingresos correspondiente.
+Nombre_completo_transcrito,Texto ,Nombre con el cual se registraron originalmente los restos en la Bitácora Onomástica de Ingresos correspondiente.
+Primer_apellido,Texto,Primer apellido inferido a partir del nombre.
+Segundo_apellido,Texto,Segundo apellido inferido a partir del nombre.
+Nombres_propios,Texto,Nombres propios inferidos a partir del nombre.
+Fecha_transcrito,Fecha,Fecha de ingreso con la cual se registraron originalmente los restos en la Bitácora Onomástica de Ingresos correspondiente.
+Fecha_estandar,Fecha,Fecha de ingreso con la cual se registraron originalmente los restos en la Bitácora Onomástica de Ingresos correspondiente.
+Expediente_SEMEFO_transcrito,Numérico,Número de expediente interno del SEMEFO-DF con el cual se registraron originalmente los restos en la Bitácora Onomástica de Ingresos correspondiente.
+Procedencia_transcrito,Texto,"Siglas de la procedencia (hospital, agencia de MP, etc) con la cual se registraron originalmente los restos en la Bitácora Onomástica de Ingresos correspondiente."
+Procedencia_estandar,Catálogo,"Homologación de las siglas de procedencia a nombre del hospital, agencia del MP, etc, usando el Catálogo de procedencias."
+Procedencia_dirección,Catálogo,Desglose de las siglas de la procedencia usando el Catálogo de procedencias.
+Procedencia_alcadía,Catálogo,Alcaldía de la procedencia usando el Catálogo de procedencias.
+Numero_acta_transcrito,Texto,Número de acta con el cual se registraron originalmente los restos en la Bitácora Onomástica de Ingresos correspondiente.
+Procedencia_acta,Alfanumérico,Variable autogenerada con la unión de la información correspondiente a Procedencia y Número_acta. 
+Diagnostico_transcrito,Texto,Siglas de diagnóstico de la causa de muerto hecho por el o la médica de SEMEFO-DF con el cual se registraron originalmente los restos en la Bitácora Onomástica de Ingresos correspondiente.
+Diagnostico_estandar,Catálogo,Homologación de las siglas de diagnóstico usando el Catálogo de dagnósticos.
+Diagnostico_extendido,Catálogo,"Homologación y desgloce de de las siglas de diagnóstico basado en las ""Hojas amarillas"" del SEMEFO, usando el Catálogo de diagnósticos."
+Sexo,Catálogo,Sexo con el cual se registraron originalmente los restos en la Bitácora Onomástica de Ingresos correspondiente.
+Edad_transcrito,Numérico,Edad asignada por el o la médica correspondiente con el cual se registraron originalmente los restos en la Bitácora Onomástica de Ingresos correspondiente.
+Tipo_restos,Catálogo,Inferencia del tipo de resto que ingresó al SEMEFO-DF realizada por la CNB. 
+Bitacora_ingresos,Catálogo,Identificador de la Bitácora Onomástica de Ingresos anual de la cual se transcribió el registro.
+Pagina_PDF,Numérico,Número de la página del PDF de la Bitácora Onomástica de Ingresos escaneada.
+Foja_transcrito,Texto,Número de foja de la Bitácora Onomástica de Ingresos de donde se transcribió la información. 
+Observaciones,Texto,Observaciones sobre características específicas en la anotación original en la Bitácora Onomástica de Ingresos. 
+Conocido_desconocido,Catálogo,Inferencia de la variable conocida o desconocida para los registros en la Bitácora Onomástica de Ingresos.
