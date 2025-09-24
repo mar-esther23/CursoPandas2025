@@ -1,6 +1,5 @@
 # Introducción al análisis de datos de gobierno con Python-Pandas
-### Dra. Mariana Esther Martínez Sánchez
-Instituto Nacional de Enfermedades Respiratorias Ismael Cosio Villegas
+### Dra. Mariana Esther Martínez Sánchez ([INER](http://iner.gob.mx/))
 
 En este tutorial, trabajaremos con el conjunto de datos Bitácoras Históricas del Servicio Médico Forense del Distrito Federal (SEMEFO-DF), que ha sido sistematizada por la Comisión Nacional de Búsqueda (CNB). Este conjunto de datos se obtuvo a través de una solicitud de acceso a la información disponible en el Portal de Transparencia del Instituto Nacional de acceso a la Información (INAI) en noviembre de 2023 y existe una copia en el portal ciudadano datamx de Codeando México. Utilizando este conjunto de datos aprenderas de manerá practica cómo explorar, limpiar, análizar y visualizar un conjunto de datos reales usando Python y Pandas.
 
